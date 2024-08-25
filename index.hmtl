@@ -1,0 +1,28 @@
+ <!-- Pricing Section -->
+    <section class="pricing py-5">
+        <div class="container">
+            <div class="row">
+                <div class="col text-center">
+                    <h2 class="mb-4">Pricing</h2>
+                    <p class="lead">Quickly build an effective pricing table for your potential customers with this Bootstrap example. It's built with default Bootstrap components and utilities with little customization.</p>
+                </div>
+            </div>
+            <div class="row text-center">
+                <!-- Free Tier -->
+                <div class="col-lg-4">
+                    <div class="card mb-4 shadow-sm">
+                        <div class="card-header">
+                            <h4 class="my-0 fw-normal">Free</h4>
+                        </div>
+                        <div class="card-body">
+                            <h1 class="card-title pricing-card-title">$0 <small class="text-muted">/ mo</small></h1>
+                            <ul class="list-unstyled mt-3 mb-4">
+                                <li>10 users included</li>
+                                <li>2 GB of storage</li>
+                                <li>Email support</li>
+                                <li>Help center access</li>
+                            </ul>
+                            <button type="button" class="btn btn-lg btn-outline-primary">Sign up for free</button>
+                        </div>
+                    </div>
+                </div>
